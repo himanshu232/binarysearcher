@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"SpellChecker"
+			],
+			[
+				"dic",
+				"dictionaryLoaded"
+			],
+			[
+				"prom",
+				"promptForSearch"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"false",
+				"falsePositive"
+			],
+			[
+				"word",
+				"wordlistAsStringArray"
+			],
+			[
+				"wor",
+				"wordlistAsStringArray"
+			],
+			[
+				"w",
+				"wordAsString"
+			],
+			[
+				"wordH",
+				"wordHCToInt"
+			],
+			[
+				"wod",
+				"wordHashCode"
+			],
+			[
+				"bit",
+				"bitmask"
+			],
+			[
+				"h",
+				"hashCode"
+			],
+			[
+				"md",
+				"md5HashCode"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"modal",
+				"modalTmpl"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"trib",
+				"tributeHtml"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"colo",
+				"color1"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"document",
+				"document_alias"
+			],
+			[
+				"blog",
+				"blogItemMarkupList"
+			],
+			[
+				"docu",
+				"documentHtmlList"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "Package IN",
+		"selected_items":
+		[
+			[
+				"Package IN",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/innod/Code/binarysearch"
+	],
+	"file_history":
+	[
+		"/C/Users/innod/Code/spellchecker/wordlist.txt",
+		"/C/Users/innod/Code/spellchecker/package.json",
+		"/C/Users/innod/Code/valnnodumcom/index.html",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0029c6/Bv002fc5/site.less",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0029c6/Bv0029c6/default",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0029c6/Bv00366a/biography.html",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0029c6/Bv0035e4/index.html",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0029c6/Bv003687/scholarship.html",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0029c6/Bv00369b/tributes.html",
+		"/C/Users/innod/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/innod/Code/valnnodumcom/tributes.json",
+		"/C/Users/innod/Code/valnnnodum/client/app/9811c918.app.css",
+		"/C/Users/innod/Code/nwannedesigns/styles/site.less",
+		"/C/Users/innod/Code/shopnwanne/styles/site.less",
+		"/C/Users/innod/Code/valnnodumcom/biography.html",
+		"/C/Users/innod/Code/valnnodumcom/tributes.html",
+		"/C/Users/innod/Code/valnnodumcom/scripts/site.js",
+		"/C/Users/innod/Code/valnnodumcom/styles/bootstrap.min.css",
+		"/C/Users/innod/Code/valnnodumcom/styles/less/valnnodumcom.less",
+		"/C/Users/innod/Code/dad/scripts/site.js",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv005d8a/site.less",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv006ace/site-fw.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv006677/template.conf",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv007bbb/header.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv007bb1/header-fw.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv005a28/header-fw.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv005b89/site-fw.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv0059b3/site.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv00077b/footers.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv00035f/site.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv00034c/site-fw.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv000321/header-fw.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv000219/header-fw.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv00011d/nwanne.less",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv007fac/headers.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv00597b/header.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv00593d/site-fw.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv007f0c/header-fw.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv007ef9/site.js",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv007ef2/app.js",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv007edb/footers.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv007df7/template.conf",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv007d60/footer.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0015dc/Bv0001ff/headers.region",
+		"/C/Users/innod/Code/nwannedesigns/site.region",
+		"/C/Users/innod/Code/nwannedesigns/header.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv0035eb/site.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv00357a/template.conf",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv00373d/headers.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv003884/template.conf",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv00374d/home.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv0036f3/home.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv001f66/blog.list",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv00398a/site.less",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv003639/footers.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv00363b/headers.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv0036e3/headers.region",
+		"/C/Users/innod/Code/shopnwanne/footers.region",
+		"/C/Users/innod/Code/shopnwanne/home.region",
+		"/C/Users/innod/Code/shopnwanne/headers.region",
+		"/C/Users/innod/Code/shopnwanne/site.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv003217/template.conf",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv0063ab/headers.region",
+		"/C/Users/innod/Code/shopnwanne/template.conf",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv0055cd/header.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv004c91/bootstrap.less",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv004f24/header.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv004fff/template.conf",
+		"/C/Users/innod/Code/shopnwanne/squarespace/blocks/nav.block",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv0056b5/template.conf",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv00580f/headers.region",
+		"/C/Users/innod/Code/shopnwanne/squarespace/header.region",
+		"/C/Users/innod/Code/shopnwanne/scripts/app.js",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv0062c9/template.conf",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv0062dd/headers.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0031d2/Bv0031d2/template.conf",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv0063c5/footers.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv0050fb/header.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv00516d/home.region",
+		"/C/Users/innod/Code/shopnwanne/bower.json",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv005857/footers.region",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv004c91/Bv005e97/bootstrap.less",
+		"/C/Users/innod/Code/shopnwanne/styles/footer.less",
+		"/C/Users/innod/Code/shopnwanne/styles/b",
+		"/C/Users/innod/Downloads/palette (2).scss",
+		"/C/Users/innod/Downloads/palette (1).scss",
+		"/C/Users/innod/Downloads/palette (3).scss",
+		"/C/Users/innod/Code/nwanne/styles/main.scss",
+		"/C/Users/innod/Downloads/palette (4).scss",
+		"/C/Users/innod/Code/nwanne/scripts/app.js",
+		"/C/Users/innod/Code/nwanne/bower.json",
+		"/C/Users/innod/Code/nwanne/.bowerrc",
+		"/C/Users/innod/Code/nwanne/styles/home.scss",
+		"/C/Users/innod/Code/nwanne/styles/main.css",
+		"/C/Users/innod/innod/Code/word-a-day/gulpfile.js",
+		"/C/Users/innod/innod/Code/word-a-day/package.json",
+		"/C/Users/innod/Code/nwanne/gulpfile.js",
+		"/C/Users/innod/Code/nwanne/shopnwanne.sublime-project",
+		"/C/Users/innod/Code/nwanne/package.json",
+		"/C/Users/innod/AppData/Local/Temp/BvSshSftp/Bv0038f3/Bv003927/script.model.js",
+		"/C/Users/innod/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\innod\\Code\\isiime",
+			"C:\\Users\\innod\\Code\\valnnodumcom"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bitmask",
+			"assert",
+			"fs",
+			"var",
+			"wordlistAsArray",
+			"data",
+			"const",
+			"Why Behind WOD",
+			"Why Behind Wod",
+			"Why Behind WOD",
+			"Why Behind Wod",
+			"Why Behind WOD",
+			"/2016",
+			"Why Behind WOD",
+			"/2016",
+			"\t",
+			" ",
+			"Why Behind WOD",
+			"/2016",
+			"footer",
+			"p>",
+			"<hr>",
+			"(<",
+			")",
+			"(",
+			")",
+			"(",
+			")",
+			"(",
+			"50",
+			"40",
+			" &bull; ",
+			"’",
+			"–",
+			"•",
+			"span",
+			"'assets",
+			"/asset",
+			"f=\"/styles",
+			"\"/assets",
+			"992",
+			"purple",
+			"left",
+			" text-center",
+			"img",
+			"footer",
+			"memory",
+			"static_isii_me",
+			"assets",
+			"abc",
+			"<p> ",
+			"<li>",
+			"<img src=\"/assets/images/vallogo.jpg\" width=\"100px\">",
+			"<img src=\"/assets/images/vallogo.png\">",
+			"<img src=\"/assets/images/vallogo.jpg\">",
+			"<img src=\"/assets/images/val.jpg\">",
+			"in-heig",
+			"tribute",
+			"mySmallModalLabel",
+			"bs-example-modal-sm",
+			"val",
+			"tributeHtml",
+			"\"name\":",
+			"h2",
+			"h1",
+			"span",
+			"px;",
+			"2;",
+			"3;",
+			"0px",
+			"5",
+			"photos",
+			"px;",
+			": ",
+			"h3",
+			"filtered",
+			"margin",
+			"height",
+			"sm",
+			"md",
+			"\t\t",
+			"margin",
+			"-top:",
+			".margin-tb",
+			"right",
+			"left",
+			".margin-lr",
+			".margin-r",
+			"left",
+			".margin-l",
+			"top",
+			".margin-t",
+			"bottom",
+			".margin-b",
+			"p",
+			"448AFF",
+			"#FF9100",
+			"ffb7b7",
+			".margin-b-",
+			"50px",
+			" 0",
+			"768px",
+			"h1",
+			"list-style: none;",
+			"\\n",
+			"\\r\\n",
+			"id=\"ctp",
+			"<h1>",
+			"text-align: center",
+			"div",
+			"white",
+			"20px",
+			"8 col-sm-offset-2",
+			"col-sm-8 col-sm-offset-2",
+			"bs-example-navbar-collapse-1",
+			"home",
+			"./",
+			"=\"/",
+			"globa",
+			".margin-r-",
+			".margin-b-",
+			".padding-t",
+			"dding-righ",
+			"ing-brigh",
+			".padding-",
+			"bg-",
+			"home-",
+			"-r-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<img src=\"/assets/images/vallogo.png\" width=\"100px\">",
+			"<img src=\"/assets/images/vallogo.jpg\" width=\"100px\">",
+			"<img src=\"/assets/images/val.jpg\" width=\"100px\">",
+			"<br>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 291.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Builder",
+	"project": "binarysearch.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
