@@ -5,7 +5,7 @@ const Promise = require('bluebird');
 const fs = Promise.promisifyAll(require('fs'));
 const readline = require('readline');
 const chop = require('./chop.js');
-
+//class binarysearcher
 class BinarySearcher {
 
 	constructor(numberlist) {
